@@ -7,6 +7,8 @@ ___
     - downsample by averaging pixels [sampling_method: 2]
     - upsample by nearest neighbor interpolation [sampling_method: 2]
     - provide image name (modify source to choose images from different directory)
+- -d --depth: level 1 to 7 times to divide size of image in half [default: 1]
+- -i --intensity: level 1 to 7 for gamma level correction of an image [default: 1]
 ___
 ##Known issues
 ___
@@ -17,5 +19,5 @@ and give them all unique names
 ___
 ##links
 ___
-- [github](www.https://github.com/ch3rc/DIP3.git "github account") for code and logs
+- [github](www.https://github.com/ch3rc/DIP3 "github account") for code and logs under master branch
 - contact me at my [UMSL email](ch3rc@umsystem.edu) if you have any questions
